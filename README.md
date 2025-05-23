@@ -27,5 +27,3 @@ A place to build with clarity, not for validation — but for impact.
 No rush. Just the long game.
 
 ---
-
-Would you like me to move on to `roadmap.md` next, or would you prefer a first blog post or research note?
